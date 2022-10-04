@@ -11,8 +11,8 @@
 <br><br>
 <span align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms5380)](https://solved.ac/cms5380/)
-
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms5380)](https://solved.ac/cms5380/)
+-->
 </span>
 
 <br><br>
