@@ -6,7 +6,6 @@
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
   <a href="https://charminseok.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-E94F20?style=flat-square&logo=Talend&logoColor=white&link=https://charminseok.tistory.com/"/>&nbsp
-  <a href="mailto:cms1297@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cms1297@gmail.com"/></a>
 </p>
 <br><br>
 <span align="center">
